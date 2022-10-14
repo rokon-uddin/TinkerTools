@@ -1,5 +1,5 @@
 # TinkerTools
-A list of handful tips and utility apps for Pros. Let the tool to do work so that we can focus more on coding.
+A list of handful tips and utility apps for Pros. Let the tool to do the work so that we can focus more on coding.
 
 #### Open Terminal from Xcode:
  1. Create a bash script and save it in some folder. If you are lazy like me [here’s the gist](https://gist.github.com/rokon-mlbd/1711e874b12f3707a18115367330f059), download and use it:
@@ -26,7 +26,7 @@ After becoming accustomed to the ease of opening terminal from Xcode, I have cre
 Xcode could store tens of gigabytes in ~/Developer folder. Most of those cached files & symbols is not reclaimed over time and could consume a large amount of your storage, which is especially important if you have relatively small SSD drive.
 [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) gives you an easy way to inspect auto-generated files and clean them if necessary. It could also remind you about scan after a while.
 
-#### #Dropover
+#### Dropover
 
 [Dropover](https://dropoverapp.com) is a macOS utility that makes Drag and Drop easier. Use it to stash, gather or move any draggable content without having to open side-by-side windows.
 
